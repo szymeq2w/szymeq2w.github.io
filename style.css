@@ -1,0 +1,84 @@
+body{
+    background-image: url('https://wallpaperaccess.com/full/4162156.png');
+}
+
+#maintxt{
+    color: #fff;
+    font-family:serif;
+}
+
+#email{
+    border: 0;
+    background: none;
+    background-color:rgb(0, 191, 255);
+    display: block;
+    font-size: 20px;
+    padding: 14px 10px;
+    border-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+    transition: 0.25s;
+    width: 300px;
+}
+
+#pass:hover{
+    background-color: cyan;
+    width: 320px;
+}
+#email:hover{
+    width: 320px;
+    background-color: cyan;
+}
+
+
+#pass{
+    border: 0;
+    background: none;
+    background-color:rgb(0, 191, 255);
+    display: block;
+    font-size: 20px;
+    padding: 14px 10px;
+    border-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+    width: 300px;
+    transition: 0.25s;
+}
+
+#submit{
+    font-size: 30px;
+    margin-left: 75px;
+    border: 2px solid;
+    border-radius: 15px;
+    display: block;
+    transition: 0.3s;
+    border-color:#fff;
+    background: none;
+    color: #fff;
+    font-family: monospace;
+    width: 152px;
+}
+
+#vbucks{
+    border: 0;
+    background: none;
+    background-color:rgb(0, 191, 255);
+    display: block;
+    font-size: 20px;
+    padding: 14px 10px;
+    border-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+    width: 300px;
+    transition: 0.25s;
+}
+
+#vbucks:hover{
+    width: 320px;
+    background-color: cyan;
+}
+
+#submit:hover{
+    opacity: 60%;
+}
+
